@@ -1,0 +1,116 @@
+body{
+  background-color:rgb(17, 18, 23)
+}
+.mobile_header{
+    height: 1325px;
+    width: 100%;
+    background-color:lightgrey;
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+.mobile_header.logo{
+  display: inline-block;
+    margin: 11px 13px;
+    margin-top: 11px;
+    margin-right: 13px;
+    margin-bottom: 11px;
+    margin-left: 13px;
+}
+#contentwrapper{
+  width: 100%;
+  height: 100%;
+  float: left;
+  /* margin-right:100px;
+  margin-left:100px; */
+  border
+  background-color: rgb(17, 18, 23);
+}
+
+.navi{
+  background-color: rgb(17, 18, 23);
+  padding-left: 100px;
+  padding-right:100px;
+  padding-bottom: 20px;
+}
+
+.rw1{
+  padding-left: 100px;
+  padding-right:100px;
+  padding-bottom: 10px;
+}
+.mea{
+  margin-bottom: 20px;
+}
+
+.contentcolumn{
+
+  height:100%;
+}
+#container{
+  margin-left: 50px;
+  margin-right:50px;
+}
+.banner bc{
+  height: 724px;
+  position: relative;
+  margin-top: inherit;
+}
+.wrapper{
+  border:0;
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: 400;
+  max-width: 844px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+h1{
+  font-size: 70px;
+  line-height: 74px;
+  font-weight: 400;
+}
+.value_section{
+  background-color: yellow;
+  height: 320px;
+  line-height: 32px;
+  font-size: 24px;
+  position: relative;
+  padding:90px 0 56px 0;
+}
+.feat{
+  margin-left: 0.5rem;
+  border-style: solid;
+}
+
+.sidemenu{
+  width: 4.5rem;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    background:white;
+}
+.sidemenu.inner{
+  padding: 37px 30px;
+  background-color:blue;
+
+}
+.navbar-brand{
+
+}
+#chart2{
+  height: 200px;
+}
+.dot{
+  background-color:#181b1f;
+  border-bottom:;
+  color:lightgrey;
+}
+.dot1{
+  background-color:white;
+  border-bottom:;
+  color:lightgrey;
+}
